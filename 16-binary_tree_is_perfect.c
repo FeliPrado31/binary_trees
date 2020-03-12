@@ -34,7 +34,8 @@ size_t binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
-  * binary_tree_balance - Write a function that measures the balance factor of a binary tree
+  * binary_tree_balance - Write a function
+  * that measures the balance factor of a binary tree
   * @tree: pointer to the root node of the tree to measure the balance factor
   * Return: positive, negative or zero
   */
@@ -50,7 +51,8 @@ int binary_tree_balance(const binary_tree_t *tree)
 }
 
 /**
-  * binary_tree_is_perfect - Write a function that checks if a binary tree is perfect
+  * binary_tree_is_perfect - Write a
+  * function that checks if a binary tree is perfect
   * @tree: pointer to the root node of the tree to check
   * Return: 1 if it is perfect
   */
